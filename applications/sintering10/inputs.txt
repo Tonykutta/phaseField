@@ -1,0 +1,8 @@
+time step 1.0*10^-3
+Number of timesteps 1000000
+Number outputs 50
+//////////////////////////////////////
+
+load from checkpoint!!!
+
+///////////////////
